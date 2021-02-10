@@ -25,8 +25,6 @@ const Search = () => {
             })
     }
 
-    console.log(user);
-
     return (
         <div className="search-container">
             <div className="search-content">
